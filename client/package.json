@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@apollo/client": "^3.3.18",
+    "cors": "^2.8.5"
+  }
+}
